@@ -1,0 +1,5 @@
+main: ca.xamercier.lectusHikabrain.HikaBrain
+name: LectusHikaBrain2v2
+version: 1.0
+authors: [xamercier, com002]
+depend: [LectusAPI]
